@@ -1,0 +1,9 @@
+a0,b1,c2,d3,e4,f5,g6,h7,i8,j9,k10,l11,m12,n13
+0,ability_null,LUA_MENU_CACABILITIES_NONE,,,,,,,,,,,
+1,ability_speed,LUA_MENU_CACABILITIES_SPEED,,specialty_fastsprintrecovery,specialty_fastreload,specialty_lightweight,specialty_marathon,specialty_stalker,,,,,
+2,ability_handling,LUA_MENU_CACABILITIES_HANDLING,,specialty_pitcher,specialty_sprintreload,specialty_quickswap,specialty_bulletaccuracy,specialty_quickdraw,,,,,
+3,ability_stealth,LUA_MENU_CACABILITIES_STEALTH,,specialty_silentkill,specialty_blindeye,specialty_quieter,specialty_incog,specialty_gpsjammer,,,,,
+4,ability_awareness,LUA_MENU_CACABILITIES_AWARENESS,,specialty_paint,specialty_scavenger,specialty_detectexplosive,specialty_selectivehearing,specialty_comexp,,,,,
+5,ability_resistance,LUA_MENU_CACABILITIES_RESISTANCE,,specialty_falldamage,specialty_regenfaster,specialty_sharp_focus,specialty_stun_resistance,_specialty_blastshield,,,,,
+6,ability_equipment,LUA_MENU_CACABILITIES_EQUIPMENT,,specialty_extra_equipment,specialty_extra_deadly,specialty_extraammo,specialty_extra_attachment,specialty_explosivedamage,,,,,
+7,ability_elite,LUA_MENU_CACABILITIES_ELITE,,specialty_gambler,specialty_hardline,specialty_boom,specialty_twoprimaries,specialty_deadeye,,,,,

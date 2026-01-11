@@ -1,0 +1,7 @@
+a0,b1,c2,d3,e4,f5,g6,h7,i8
+0,ability_ops,LUA_MENU_OPS_ABILITY,LUA_MENU_OPS_ABILITY_DESC,mp/challenges/ChallengeTable_AbilityOps.csv,LUA_MENU_ABILITY,,,
+1,first_class_ops,LUA_MENU_OPS_FIRST_CLASS,LUA_MENU_OPS_FIRST_CLASS_DESC,mp/challenges/ChallengeTable_FirstClassOps.csv,LUA_MENU_FIRST_CLASS,,,
+2,game_mode_ops,LUA_MENU_OPS_GAME_MODE,LUA_MENU_OPS_GAME_MODE_DESC,mp/challenges/ChallengeTable_GameModeOps.csv,LUA_MENU_GAME_MODE,,,
+3,social_ops,LUA_MENU_OPS_SOCIAL,LUA_MENU_OPS_SOCIAL_DESC,mp/challenges/ChallengeTable_SocialOps.csv,LUA_MENU_SOCIAL,,,
+4,prestige_ops,LUA_MENU_OPS_PRESTIGE,LUA_MENU_OPS_PRESTIGE_DESC,mp/challenges/ChallengeTable_PrestigeOps.csv,LUA_MENU_PRESTIGE,,,
+5,weapon_ops,PATCH_MENU_OPS_WEAPONS,LUA_MENU_MP_OPS_WEAPONS_DESC,mp/challenges/ChallengeTable_WeaponOps.csv,PATCH_MENU_WEAPONS_OP_PREFIX,,,

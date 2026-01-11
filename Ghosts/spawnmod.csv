@@ -1,0 +1,8 @@
+mp_snow:27,move,-1152,1328,-48,0,0,0,# mp_dom_spawn originally at 386 -724 16
+mp_snow:36,move,-976,-1088,16,0,270,0,# mp_dom_spawn originally at -1230 -1318 8
+mp_fahrenheit:152,move,-2688,-1408,524,0,270,0,# mp_dom_spawn originally at -2788.3 -2071.1 528
+mp_fahrenheit:128,move,-2688,-1408,524,0,270,0,# mp_tdm_spawn originally at -2788.3 -2065.1 536
+mp_fahrenheit:197,move,1888,-544,824,0,90,0,# mp_blitz_spawn originally at 2087.4 -56.9 769
+mp_fahrenheit:123,move,1888,-544,824,0,90,0,# mp_dm_spawn originally at 2087.4 -56.9 769
+mp_fahrenheit:129,move,1888,-544,824,0,90,0,# mp_tdm_spawn originally at 2087.4 -56.9 769
+mp_boneyard_ns:51,skip,,,,,,,# mp_dm_spawn originally at 232 477 -80.9
