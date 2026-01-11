@@ -1,0 +1,218 @@
+Script Reference ,Score String,Medal Reference,Medal Backing Material,Killstreaks Allowed Score,Save Medal Stats,Demo Bookmark Priority,DoubleXP,GunXP,Medal Category,Medal Sortkey,tdm score,tdm XP,dm score,dm XP,conf score,conf XP,ctf score,ctf XP,dom score,dom XP,dem score,dem XP,sd score,sd XP,koth score,koth XP,hq score,hq XP,oic score,oic XP,sas score,sas XP,gun score,gun XP,shrp score,shrp XP,hack score,hack XP,oneflag score,oneflag XP
+kill,SCORE_KILL,,,,,,TRUE,TRUE,,,100,100,100,100,50,100,100,100,100,100,100,100,100,100,100,100,100,100,10,100,10,100,0,0,10,100,100,100,100,100
+melee_kill,SCORE_MELEE_KILL,,,,,,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,0,0,0,-5,0,0,0,0,0
+melee_kill_with_riot_shield,,MEDAL_MELEE_KILL_WITH_RIOT_SHIELD,hud_medals_shieldbash,,,4,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+ballistic_knife_kill,,MEDAL_BALLISTIC_KNIFE_KILL,hud_medals_skewer,,,10,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+assist_75,SCORE_ASSISTS,,,,,,TRUE,TRUE,, ,50,75,0,0,50,75,50,75,50,75,50,75,50,75,50,75,50,75,0,0,0,0,0,0,0,0,0,0,50,75
+assist_50,SCORE_ASSISTS,,,,,,TRUE,TRUE,, ,25,50,0,0,25,50,25,50,25,50,25,50,25,50,25,50,25,50,0,0,0,0,0,0,0,0,0,0,25,50
+assist_25,SCORE_ASSISTS,,,,,,TRUE,TRUE,, ,25,25,0,0,25,25,25,25,25,25,25,25,25,25,25,25,25,25,0,0,0,0,0,0,0,0,0,0,25,25
+assist_proximity,SCORE_ASSISTS_PROXIMITY,,,,,,TRUE,,, ,50,50,0,0,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+assist_concussion,SCORE_ASSISTS_CONCUSSION,,,,,,TRUE,,, ,50,50,0,0,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+assist_flash,SCORE_ASSISTS_FLASH,,,,,,TRUE,,, ,50,50,0,0,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+assist_emp,SCORE_EMP_ASSIST,,,,,,TRUE,,, ,50,50,0,0,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+shield_assist,SCORE_SHIELD_ASSIST,,,,,,TRUE,,, ,50,50,0,0,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+shield_blocked_damage,SCORE_SHIELD_BLOCKED,,,,,,TRUE,,, ,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,0,0,0,0,0,0,0,0,0,0,25,25
+shield_blocked_damage_reduced,SCORE_SHIELD_BLOCKED,,,,,,TRUE,,, ,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,10,10
+uav_assist,SCORE_UAV_ASSIST,,,,,,TRUE,,, ,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,10,10
+counter_uav_assist,SCORE_COUNTER_UAV_ASSIST,,,,,,TRUE,,, ,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,10,10
+microwave_turret_assist,SCORE_MICROWAVE_TURRET_ASSIST,,,,,,TRUE,,, ,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,10,10
+satellite_assist,SCORE_SATELLITE_ASSIST,,,,,,TRUE,,, ,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,10,10
+emp_assist,SCORE_EMP_ASSIST,,,,,,TRUE,,, ,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,10,10
+aircraft_flare_assist,SCORE_AIRCRAFT_FLARE_ASSIST,,,,,,TRUE,TRUE,, ,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,0,0,0,0,0,0,0,0,0,0,75,75
+aircraft_destruction_assist_75,SCORE_AIRCRAFT_DESTRUCTION_ASSIST,,,TRUE,,,TRUE,TRUE,, ,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,0,0,0,0,0,0,0,0,0,0,75,75
+aircraft_destruction_assist_50,SCORE_AIRCRAFT_DESTRUCTION_ASSIST,,,TRUE,,,TRUE,TRUE,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+aircraft_destruction_assist_25,SCORE_AIRCRAFT_DESTRUCTION_ASSIST,,,TRUE,,,TRUE,TRUE,, ,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,0,0,0,0,0,0,0,0,0,0,25,25
+hacked,SCORE_HACKED,MEDAL_HACKED,hud_medals_hacked,,,4,TRUE,,combat,16,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+trophy_defense,SCORE_TROPHY_DEFENSE,,,,,,TRUE,,, ,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,25,0,0,0,0,0,0,0,0,0,0,25,25
+destroyed_claymore,SCORE_DESTROYED_CLAYMORE,,,,,4,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+destroyed_proxy,SCORE_DESTROYED_PROXY,,,,,4,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+destroyed_bouncingbetty,SCORE_DESTROYED_BOUNCING_BETTY,,,,,4,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+destroyed_c4,SCORE_DESTROYED_C4,,,,,4,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+destroyed_tac_insert,SCORE_DESTROYED_TAC_INSERT,,,,,4,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+destroyed_motion_sensor,SCORE_DESTROYED_MOTION_SENSOR,,,,,,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+destroyed_trophy_system,SCORE_DESTROYED_TROPHY_SYSTEM,,,,,,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+destroyed_shield,SCORE_DESTROYED_SHIELD,,,,,,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+destroyed_uav,SCORE_DESTROYED_UAV,MEDAL_DESTROYED_UAV,hud_medals_destroyed_uav,TRUE,,,TRUE,TRUE,antiscorestreaks,19,75,100,75,100,75,100,75,100,75,100,75,100,75,100,75,100,75,100,0,0,0,0,0,0,0,0,0,0,75,100
+destroyed_counter_uav,SCORE_DESTROYED_COUNTER_UAV,MEDAL_DESTROYED_COUNTERUAV,hud_medals_destroyed_cuav,TRUE,,,TRUE,TRUE,antiscorestreaks,19,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,100,100
+destroyed_helicopter_supply_drop,SCORE_DESTROYED_HELICOPTER_SUPPLY_DROP,MEDAL_DESTROYED_SUPPLY_DROP,hud_medals_destroyed_supply_drop,TRUE,,,TRUE,TRUE,antiscorestreaks,19,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,0,0,0,0,0,0,0,0,0,0,125,100
+destroyed_missile_drone,SCORE_DESTROYED_MISSILE_DRONE,MEDAL_DESTROYED_MISSILE_DRONE,hud_medals_destroyed_missile_drone,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,0,0,0,0,0,0,0,0,0,0,125,100
+destroyed_rcbomb,SCORE_DESTROYED_RCBOMB,MEDAL_DESTROYED_RCBOMB,hud_medals_roadrage,TRUE,TRUE,4,TRUE,TRUE,antiscorestreaks,19,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,0,0,0,0,0,0,0,0,0,0,125,100
+destroyed_microwave_turret,SCORE_DESTROYED_MICROWAVE_TURRET,MEDAL_DESTROYED_MICROWAVE_TURRET,hud_medals_scrapped,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,0,0,0,0,0,0,0,0,0,0,125,100
+destroyed_remote_missile,SCORE_DESTROYED_REMOTE_MISSILE,MEDAL_DESTROYED_REMOTE_MISSLE,hud_medals_intercepted,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,0,0,0,0,0,0,0,0,0,0,125,100
+destroyed_plane_mortar,SCORE_DESTROYED_PLANE_MORTAR,MEDAL_DESTROYED_PLANE_MORTAR,hud_medals_destroyed_plane_mortar,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,0,0,0,0,0,0,0,0,0,0,125,100
+destroyed_sentry_gun,SCORE_DESTROYED_SENTRY_GUN,MEDAL_DESTROYED_SENTRY_GUN,hud_medals_destroyed_sentry_gun,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,125,100,0,0,0,0,0,0,0,0,0,0,125,100
+destroyed_qrdrone,SCORE_DESTROYED_QRDRONE,MEDAL_DESTROYED_QRDRONE,hud_medals_wasphunter,TRUE,TRUE,4,TRUE,TRUE,antiscorestreaks,19,150,100,150,100,150,100,150,100,150,100,150,100,150,100,150,100,150,100,0,0,0,0,0,0,0,0,0,0,150,100
+destroyed_aitank,SCORE_DESTROYED_AITANK,MEDAL_DESTROYED_AITANK,hud_medals_dronehunter,TRUE,TRUE,4,TRUE,TRUE,antiscorestreaks,19,150,250,150,250,150,250,150,250,150,250,150,250,150,250,150,250,150,250,0,0,0,0,0,0,0,0,0,0,150,250
+destroyed_helicopter_comlink,SCORE_DESTROYED_HELICOPTER_COMLINK,MEDAL_DESTROYED_HELI_COMLINK,hud_medals_destroyed_heli_comlink,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,150,250,150,250,150,250,150,250,150,250,150,250,150,250,150,250,150,250,0,0,0,0,0,0,0,0,0,0,150,250
+destroyed_helicopter_guard,SCORE_DESTROYED_HELICOPTER_GUARD,MEDAL_DESTROYED_HELI_GUARD,hud_medals_destroyed_heli_guard,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,150,250,150,250,150,250,150,250,150,250,150,250,150,250,150,250,150,250,0,0,0,0,0,0,0,0,0,0,150,250
+destroyed_remote_mortar,SCORE_DESTROYED_REMOTE_MORTAR,MEDAL_DESTROYED_REMOTE_MORTAR,hud_medals_destroyed_remote_mortar,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,175,250,175,250,175,250,175,250,175,250,175,250,175,250,175,250,175,250,0,0,0,0,0,0,0,0,0,0,175,250
+destroyed_helicopter_gunner,SCORE_DESTROYED_HELICOPTER_GUNNER,MEDAL_DESTROYED_HELI_GUNNER,hud_medals_destroyed_heli_gunner,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,175,500,175,500,175,500,175,500,175,500,175,500,175,500,175,500,175,500,0,0,0,0,0,0,0,0,0,0,175,500
+destroyed_missile_swarm,SCORE_DESTROYED_MISSLE_SWARM,MEDAL_DESTROYED_MISSILE_SWARM,hud_medals_destroyed_missile_swarm,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,200,500,200,500,200,500,200,500,200,500,200,500,200,500,200,500,200,500,0,0,0,0,0,0,0,0,0,0,200,500
+destroyed_strafe_run,SCORE_DESTROYED_STRAFE_RUN,MEDAL_DESTROYED_STRAFERUN,hud_medals_flyswatter,TRUE,,4,TRUE,TRUE,antiscorestreaks,19,200,500,200,500,200,500,200,500,200,500,200,500,200,500,200,500,200,500,0,0,0,0,0,0,0,0,0,0,200,500
+killed_death_machine_enemy,SCORE_KILLED_DEATH_MACHINE_ENEMY,,,TRUE,,4,TRUE,, , ,50,100,50,100,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+killed_multiple_grenade_launcher_enemy,SCORE_KILLED_MULTIPLE_GRENADE_LAUNCHER_ENEMY,,,TRUE,,4,TRUE,,, ,50,100,50,100,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+killed_dog,SCORE_DOG_KILL,,,,TRUE,4,TRUE,,, ,50,100,50,100,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+killed_dog_assist,SCORE_DOG_KILL_ASSIST,,,,,,TRUE,,, ,25,25,0,0,25,25,25,25,25,25,25,25,25,25,25,25,25,25,0,0,0,0,0,0,0,0,0,0,25,25
+share_package_uav,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_UAV,hud_medals_share_uav,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_rcbomb,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_RCBOMB,hud_medals_share_rcxd,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_counter_uav,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_COUNTER_UAV,hud_medals_share_counteruav,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_qrdrone,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_QRDRONE,hud_medals_share_wasp,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_microwave_turret,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_MICROWAVE_TURRET,hud_medals_share_hpm,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_remote_missile,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_REMOTE_MISSILE,hud_medals_share_hellstorm,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_plane_mortar,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_PLANE_MORTAR,hud_medals_share_lightstrike,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_sentry_gun,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_SENTRY_GUN,hud_medals_share_sentrygun,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_helicopter_comlink,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_HELICOPTER_COMLINK,hud_medals_share_stealthheli,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_helicopter_guard,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_HELICOPTER_GUARD,hud_medals_share_aq10escort,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_satellite,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_SATELLITE,hud_medals_share_satrecon,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_aitank,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_AITANK,hud_medals_share_agr,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_emp,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_EMP,hud_medals_share_emp,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_strafe_run,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_STRAFE_RUN,hud_medals_share_warthog,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_remote_mortar,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_REMOTE_MORTAR,hud_medals_share_lodestar,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_helicopter_gunner,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_HELICOPTER_GUNNER,hud_medals_share_choppergunner,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_dogs,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_DOGS,hud_medals_share_dogs,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_missile_swarm,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_MISSLE_SWARM,hud_medals_share_droneswarm,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_death_machine,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_DEATH_MACHINE,hud_medals_share_deathmachine,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_multiple_grenade_launcher,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_MULTIPLE_GRENADE_LAUNCHER,hud_medals_share_mgl,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+share_package_missile_drone,SCORE_SHARED_PACKAGE,MEDAL_SHARE_PACKAGE_MISSILE_DRONE,hud_medals_share_drone,,,,TRUE,,scorestreaks,18,50,100,0,0,50,100,50,100,50,100,50,100,50,100,50,100,50,100,0,0,0,0,0,0,0,0,0,0,50,100
+dom_point_neutral_b_secured,SCORE_NEUTRAL_B_SECURE,MEDAL_NEUTRAL_B_SECURED,hud_medals_opening_move,,,10,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,200,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dom_point_neutral_secured,SCORE_NEUTRAL_POSITION_SECURE,,,,,4,TRUE,,, ,0,0,0,0,0,0,0,0,50,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dom_point_secured,SCORE_ENEMY_POSITION_SECURE,MEDAL_POSITION_SECURE,hud_medals_secured,,,5,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,200,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kill_confirmed,SCORE_KILL_CONFIRMED,,,,,4,TRUE,,, ,0,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kill_confirmed_multi,,MEDAL_KILL_CONFIRMED_MULTI,hud_medals_cleanup,,,,TRUE,,gamemode,20,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+teammate_kill_confirmed,SCORE_TEAMMATE_KILL_CONFIRMED,,,,,,TRUE,,, ,0,0,0,0,25,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kill_denied,SCORE_KILL_DENIED,,,,,4,TRUE,,, ,0,0,0,0,25,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+retrieve_own_tags,SCORE_KILL_DENIED,MEDAL_RETRIEVE_OWN_TAGS,hud_medals_retrieval,,,4,TRUE,,gamemode,20,0,0,0,0,25,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killed_attacker,SCORE_KILLED_ATTACKER,,,,,4,TRUE,,, ,0,0,0,0,0,0,25,25,25,25,25,25,0,0,0,0,25,25,0,0,0,0,0,0,0,0,0,0,25,25
+killed_defender,SCORE_KILLED_DEFENDER,,,,,4,TRUE,, , ,0,0,0,0,0,0,25,25,25,25,25,25,0,0,0,0,25,25,0,0,0,0,0,0,0,0,0,0,25,25
+hardpoint_kill,SCORE_HARDPOINT_KILL,,,,,4,TRUE,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+planted_bomb,SCORE_PLANTED_BOMB,,,,,15,TRUE,, , ,0,0,0,0,0,0,0,0,0,0,200,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+defused_bomb,SCORE_DEFUSED_BOMB,MEDAL_DEFUSED_BOMB,hud_medals_hero,,,15,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,200,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+defused_bomb_last_man_alive,SCORE_DEFUSED_BOMB,MEDAL_DEFUSED_BOMB_LAST_MAN_ALIVE,hud_medals_clutch,,,25,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,100,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killed_bomb_planter,SCORE_KILLED_BOMB_PLANTER,MEDAL_KILLED_BOMB_PLANTER,hud_medals_takedown_bomb,,,6,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,50,100,50,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killed_bomb_defuser,SCORE_KILLED_BOMB_DEFUSER,MEDAL_KILLED_BOMB_DEFUSER,hud_medals_denied,,,6,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,50,100,50,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bomb_detonated,SCORE_BOMB_DETONATED,MEDAL_BOMB_DETONATED,hud_medals_bomber,,,4,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,300,500,300,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+final_kill_elimination,SCORE_FINAL_KILL_ELIMINATION,,,,,4,TRUE,, , ,0,0,0,0,0,0,0,0,0,0,0,0,50,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+elimination_and_last_player_alive,,MEDAL_ELIMINATION_AND_LAST_PLAYER_ALIVE,hud_medals_lastmanstanding,,,4,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+defend_hq_last_man_alive,,MEDAL_DEFEND_HQ_LAST_ALIVE,hud_medals_lastmanstanding,,,4,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0
+flag_grab,SCORE_FLAG_GRAB,,,,,5,TRUE,, , ,0,0,0,0,0,0,50,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,100
+flag_capture,SCORE_FLAG_CAPTURE,MEDAL_FLAG_CAPTURE,hud_medals_playmaker,,,5,TRUE,,gamemode,20,0,0,0,0,0,0,200,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,250
+flag_return,SCORE_FLAG_RETURN,,,,,4,TRUE,,, ,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100
+flag_carrier_kill_return_close,,MEDAL_FLAG_CARRIER_KILL_RETURN_CLOSE,hud_medals_closecall_ctf,,,15,TRUE,,gamemode,20,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250
+defend_flag_carrier,SCORE_DEFEND_FLAG_CARRIER,,,,,6,TRUE,,, ,0,0,0,0,0,0,50,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,100
+killed_enemy_while_carrying_flag,SCORE_KILLED_ENEMY_WHILE_CARRYING_FLAG,MEDAL_KILLED_ENEMY_WHILE_CARRYING_FLAG,hud_medals_aggression_ctf,,,6,TRUE,,gamemode,20,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100
+rescue_flag_carrier,SCORE_RESCUE_FLAG_CARRIER,,,,,8,TRUE,,, ,0,0,0,0,0,0,50,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,100
+kill_flag_carrier,SCORE_KILL_FLAG_CARRIER,MEDAL_KILL_FLAG_CARRIER,hud_medals_takedown_ctf,,,6,TRUE,,gamemode,20,0,0,0,0,0,0,50,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,100
+hq_secure,SCORE_HQ_SECURE,MEDAL_HQ_SECURE,hud_medals_secured,,,4,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,100,0,0,0,0,0,0,0,0,0,0,0,0
+hq_destroyed,SCORE_HQ_DESTROYED,,,,,4,TRUE,, , ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,50,0,0,0,0,0,0,0,0,0,0,0,0
+koth_secure,SCORE_KOTH_SECURE,MEDAL_KOTH_SECURE,hud_medals_secured,,,4,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+first_kill,,MEDAL_FIRST_KILL,hud_medals_firstblood,,,4,TRUE,,combat,16,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500
+assisted_suicide,,MEDAL_ASSISTED_SUICIDE,hud_medals_assist_suicide,,,20,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+headshot,,MEDAL_HEADSHOT,hud_medals_headshot,,,5,TRUE,TRUE,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+comeback_from_deathstreak,,MEDAL_COMEBACK_FROM_DEATHSTREAK,hud_medals_comeback,,,4,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+kill_enemy_after_death,,MEDAL_KILL_ENEMY_AFTER_DEATH,hud_medals_afterlife,,TRUE,,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+bounce_hatchet_kill,,MEDAL_BOUNCE_HATCHET_KILL,hud_medals_bankshot,,TRUE,35,TRUE,,combat,16,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,100,0,100,0,100,0,100,0,100,0,500
+longshot_kill,,MEDAL_LONGSHOT_KILL,hud_medals_longshot,,,4,TRUE,,combat,16,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,0,0,0,0,0,0,250
+backstabber_kill,,MEDAL_BACKSTABBER_KILL,hud_medals_backstabber,,TRUE,4,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+revenge_kill,,MEDAL_REVENGE_KILL,hud_medals_revenge,,TRUE,,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+capture_enemy_crate,,MEDAL_CAPTURE_ENEMY_CRATE,hud_medals_hijacker,,TRUE,,TRUE,,combat,16,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,0,0,0,0,0,0,0,0,0,0,250
+kill_enemy_with_their_weapon,,MEDAL_KILL_ENEMY_WITH_THEIR_WEAPON,hud_medals_backfire,,TRUE,4,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,100
+stop_enemy_killstreak,,MEDAL_STOP_ENEMY_KILLSTREAK,hud_medals_buzzkill,,TRUE,4,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,100
+kill_enemy_when_injured,,MEDAL_KILL_ENEMY_WHEN_INJURED,hud_medals_closecall,,,4,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+kill_enemy_with_hacked_care_package,SCORE_PACKAGE_KILL,MEDAL_KILL_ENEMY_WITH_HACKED_CARE_PACKAGE,hud_medals_bait_taken,TRUE,TRUE,4,TRUE,,combat,16,25,250,25,250,25,250,25,250,25,250,25,250,25,250,25,250,25,250,0,0,0,0,0,0,0,0,0,0,25,250
+kill_enemy_with_care_package_crush,SCORE_PACKAGE_KILL,MEDAL_KILL_ENEMY_WITH_CARE_PACKAGE_CRUSH,hud_medals_pancake,TRUE,,25,TRUE,,combat,16,25,500,25,500,25,500,25,500,25,500,25,500,25,500,25,500,25,500,0,100,0,100,0,100,0,100,0,100,25,500
+kill_enemy_recent_dive_prone,,MEDAL_KILL_ENEMY_RECENT_DIVE_PRONE,hud_medals_dropshot,,TRUE,8,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+kill_enemy_one_bullet,,MEDAL_KILL_ENEMY_ONE_BULLET,hud_medals_oneshot_onekill,,,5,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+kill_enemies_one_bullet,,MEDAL_KILL_ENEMIES_ONE_BULLET,hud_medals_double_penetration,,,20,TRUE,,combat,16,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500
+uninterrupted_obit_feed_kills,,MEDAL_UNINTERRUPTED_OBIT_FEED_KILLS,hud_medals_fourpiece,,TRUE,20,TRUE,,combat,16,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250
+killstreak_2,SCORE_KILLSTREAK_2,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_3,SCORE_KILLSTREAK_3,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_4,SCORE_KILLSTREAK_4,,,,,4,,, , ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_5,SCORE_KILLSTREAK_5,MEDAL_KILLSTREAK_5,hud_medals_bloodthirsty,,TRUE,4,TRUE,,combat,7,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250
+killstreak_6,SCORE_KILLSTREAK_6,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_7,SCORE_KILLSTREAK_7,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_8,SCORE_KILLSTREAK_8,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_9,SCORE_KILLSTREAK_9,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_10,SCORE_KILLSTREAK_10,MEDAL_KILLSTREAK_10,hud_medals_merciless,,TRUE,4,TRUE,,combat,6,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500
+killstreak_11,SCORE_KILLSTREAK_11,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_12,SCORE_KILLSTREAK_12,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_13,SCORE_KILLSTREAK_13,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_14,SCORE_KILLSTREAK_14,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_15,SCORE_KILLSTREAK_15,MEDAL_KILLSTREAK_15,hud_medals_ruthless,,TRUE,4,TRUE,,combat,5,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500
+killstreak_16,SCORE_KILLSTREAK_16,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_17,SCORE_KILLSTREAK_17,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_18,SCORE_KILLSTREAK_18,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_19,SCORE_KILLSTREAK_19,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_20,SCORE_KILLSTREAK_20,MEDAL_KILLSTREAK_20,hud_medals_relentless,,TRUE,4,TRUE,,combat,4,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750
+killstreak_21,SCORE_KILLSTREAK_21,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_22,SCORE_KILLSTREAK_22,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_23,SCORE_KILLSTREAK_23,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_24,SCORE_KILLSTREAK_24,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_25,SCORE_KILLSTREAK_25,MEDAL_KILLSTREAK_25,hud_medals_brutal,,TRUE,4,TRUE,,combat,3,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000
+killstreak_26,SCORE_KILLSTREAK_26,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_27,SCORE_KILLSTREAK_27,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_28,SCORE_KILLSTREAK_28,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_29,SCORE_KILLSTREAK_29,,,,,4,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+killstreak_30,SCORE_KILLSTREAK_30,MEDAL_KILLSTREAK_30,hud_medals_unstoppable,,TRUE,4,TRUE,,combat,2,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000
+killstreak_more_than_30,SCORE_KILLSTREAK_MORE_THAN_30,MEDAL_KILLSTREAK_MORE_THAN_30,hud_medals_nuclear,,,4,TRUE,,combat,1,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+multikill_2,,MEDAL_MULTIKILL_2,hud_medals_doublekill,,TRUE,4,TRUE,,combat,15,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+multikill_3,,MEDAL_MULTIKILL_3,hud_medals_triplekill,,TRUE,4,TRUE,,combat,14,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250
+multikill_4,,MEDAL_MULTIKILL_4,hud_medals_quadkill,,TRUE,4,TRUE,,combat,13,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500,0,500
+multikill_5,,MEDAL_MULTIKILL_5,hud_medals_frenzykill,,TRUE,4,TRUE,,combat,12,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750,0,750
+multikill_6,,MEDAL_MULTIKILL_6,hud_medals_superkill,,TRUE,4,TRUE,,combat,11,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000,0,1000
+multikill_7,,MEDAL_MULTIKILL_7,hud_medals_megakill,,TRUE,4,TRUE,,combat,10,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250,0,1250
+multikill_8,,MEDAL_MULTIKILL_8,hud_medals_ultrakill,,TRUE,4,TRUE,,combat,9,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500,0,1500
+multikill_more_than_8,,MEDAL_MULTIKILL_MORE_THAN_8,hud_medals_killchain,,TRUE,4,TRUE,,combat,8,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000,0,2000
+kill_enemy_who_killed_teammate,,MEDAL_KILL_ENEMY_WHO_KILLED_TEAMMATE,hud_medals_avenger,,,,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,100
+kill_enemy_injuring_teammate,,MEDAL_KILL_ENEMY_INJURING_TEAMMATE,hud_medals_savior,,,4,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,100
+stick_explosive_kill,,MEDAL_STICK_EXPLOSIVE_KILL,hud_medals_stick,,TRUE,8,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,100
+hatchet_kill,SCORE_KILL,MEDAL_HATCHET_KILL,hud_medals_choppedup,,,15,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,0,-5,0,0,0,0,0,0,0,0,100
+crossbow_kill,,MEDAL_CROSSBOW_KILL,hud_medals_deadeye,,,8,TRUE,,combat,16,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,0,0,0,0,0,0,0,0,0,0,100
+rcxd_kill,SCORE_RCXD_KILL,MEDAL_RCXD_KILL,hud_medals_rcxd,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+remote_missile_kill,SCORE_HELLSTORM_KILL,MEDAL_REMOTE_MISSILE_KILL,hud_medals_hellstorm,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+missile_drone_kill,SCORE_MISSILE_DRONE_KILL,MEDAL_MISSILE_DRONE_KILL,hud_medals_drone,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+sentry_gun_kill,SCORE_SENTRY_GUN_KILL,MEDAL_SENTRY_GUN_KILL,hud_medals_sentrygun,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+microwave_turret_kill,SCORE_HPM_KILL,MEDAL_MICROWAVE_TURRET_KILL,hud_medals_hpm,TRUE,TRUE,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+plane_mortar_kill,SCORE_LIGHTNING_STRIKE_KILL,MEDAL_PLANE_MORTAR_KILL,hud_medals_lightstrike,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+death_machine_kill,SCORE_DEATH_MACHINE_KILL,MEDAL_DEATH_MACHINE_KILL,hud_medals_deathmachine,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+multiple_grenade_launcher_kill,SCORE_MGL_KILL,MEDAL_MULTIPLE_GRENADE_LAUNCHER_KILL,hud_medals_mgl,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+qrdrone_kill,SCORE_WASP_KILL,MEDAL_QRDRONE_KILL,hud_medals_wasp,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+aitank_kill,SCORE_AGR_KILL,MEDAL_AITANK_KILL,hud_medals_agr,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+helicopter_guard_kill,SCORE_AQ10ESCORT_KILL,MEDAL_HELICOPTER_GUARD_KILL,hud_medals_aq10escort,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+strafe_run_kill,SCORE_STRAFERUN_KILL,MEDAL_STRAFF_RUN_KILL,hud_medals_warthog,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+helicopter_comlink_kill,SCORE_STEALTH_HELICOPTER_KILL,MEDAL_HELICOPTER_COMLINK_KILL,hud_medals_stealthheli,TRUE,,4,TRUE,,scorestreaks,17,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,25,100,0,0,0,0,0,0,0,0,0,0,25,100
+remote_mortar_kill,SCORE_LODESTAR_KILL,MEDAL_REMOTE_MORTAR_KILL,hud_medals_lodestar,TRUE,,4,TRUE,,scorestreaks,17,15,100,15,100,15,100,15,100,15,100,15,100,15,100,15,100,15,100,0,0,0,0,0,0,0,0,0,0,15,100
+helicopter_gunner_kill,SCORE_CHOPPER_GUNNER_KILL,MEDAL_HELICOPTER_GUNNER_KILL,hud_medals_choppergunner,TRUE,,4,TRUE,,scorestreaks,17,15,100,15,100,15,100,15,100,15,100,15,100,15,100,15,100,15,100,0,0,0,0,0,0,0,0,0,0,15,100
+dogs_kill,SCORE_DOGS_KILL,MEDAL_DOGS_KILL,hud_medals_dogs,TRUE,,4,TRUE,,scorestreaks,17,15,100,15,100,15,100,15,100,15,100,15,100,15,100,15,100,15,100,0,0,0,0,0,0,0,0,0,0,15,100
+missile_swarm_kill,SCORE_HKDRONE_SWARM_KILL,MEDAL_MISSILE_SWARM_KILL,hud_medals_droneswarm,TRUE,,4,TRUE,,scorestreaks,17,15,100,15,100,15,100,15,100,15,100,15,100,15,100,15,100,15,100,0,0,0,0,0,0,0,0,0,0,15,100
+hpm_suppress,SCORE_HPM_SUPPRESS,,,,,,TRUE,,, ,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,10,10
+hacker_drone_hacked,SCORE_HACKER_DRONE_HACKED,,,,,,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0
+hacker_drone_killed,SCORE_HACKER_DRONE_KILL,,,,,,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0
+completed_match,,MEDAL_COMPLETED_MATCH,hud_medals_defense,,,,TRUE,,gamemode,21,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100,0,100
+won_match,,MEDAL_WON_MATCH,hud_medals_offense,,,,TRUE,,gamemode,21,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250
+wager_melee_kill,SCORE_KILL,,,,,,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,0,0,0,0,0
+disarm_hacked_care_package,SCORE_DISARM_HACKED_CARE_PACKAGE,,,,,4,TRUE,,, ,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,50,0,0,0,0,0,0,0,0,0,0,50,50
+team_kill,,,,,,,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+death,,,,,,,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+suicide,,,,,,,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+clear_2_attackers,,MEDAL_CLEAR_2_ATTACKERS,hud_medals_wipeout,,,,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,250,0,250,0,0,0,0,0,0,0,0,0,0,0,0
+quickly_secure_point,,MEDAL_QUICKLY_SECURE_POINT,hud_medals_forward_position,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kill_enemy_while_capping_dom,SCORE_DOM_CAPTURE_KILL,MEDAL_KILL_ENEMY_WHILE_CAPPING,hud_medals_aggression_dom,,,,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kill_enemy_while_capping_hq,SCORE_HQ_CAPTURE_KILL,MEDAL_KILL_ENEMY_WHILE_CAPPING,hud_medals_aggression_hq,,,,TRUE,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,0,0,0,0
+survivor,SCORE_SURVIVOR,,,,,,,,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,100,0,0,0,0,0,0,0,0,0,0
+humiliation_gun,,MEDAL_HUMILIATION_GUN,hud_medals_ggame_humiliation,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0
+kill_in_3_seconds_gun,,MEDAL_KILL_IN_3_SECONDS_GUN,hud_medals_ggame_gunslinger,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0
+knife_leader_gun,,MEDAL_KNIFE_LEADER_GUN,hud_medals_ggame_regicide,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0
+x2_score_shrp,,MEDAL_X2_SCORE_SHRP,hud_medals_sshooter_ddown,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+most_points_shrp,,MEDAL_MOST_POINTS_SHRP,hud_medals_sshooter_gunexpert,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,200,0,0,0,0
+kill_x2_score_shrp,,MEDAL_KILL_X2_SCORE_SHRP,hud_medals_sshooter_cbreaker,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0
+kill_with_axe_sas,,MEDAL_KILL_WITH_AXE_SAS,hud_medals_sticks_bankrupt,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0
+kill_leader_with_axe_sas,,MEDAL_KILL_LEADER_WITH_AXE_SAS,hud_medals_sticks_regicide,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0
+kill_with_crossbow_and_ballistic_sas,,MEDAL_KILL_WITH_CROSSBOW_AND_BALLISTIC_SAS,hud_medals_sticks_switchhitter,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0
+knife_with_ammo_oic,,MEDAL_KNIFE_WITH_AMMO_OIC,hud_medals_oic_frugal,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0
+eliminate_oic,,MEDAL_ELIMINATE_OIC,hud_medals_oic_elimination,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0
+kill_enemy_with_more_ammo_oic,,MEDAL_KILL_ENEMY_WITH_MORE_AMMO_OIC,hud_medals_oic_underdog,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0
+hack_3_agrs,,MEDAL_HACK_3_AGRS_IN_HACK,hud_medals_hack_hackathon,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,0
+kill_hacker,,MEDAL_KILL_HACKER_IN_HACK,hud_medals_hack_denied,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,0
+kill_hacker_then_hack,,MEDAL_KILL_HACKER_THEN_HACK_IN_HACK,hud_medals_hack_heist,,,,,,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,350,0,0
+kill_sd,,MEDAL_ELIMINATE_SD,hud_medals_oic_elimination,,,,TRUE,TRUE,gamemode,20,0,0,0,0,0,0,0,0,0,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kill_gun,SCORE_GUN,,,,,,TRUE,TRUE,, ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,100,0,0,0,0,0,0

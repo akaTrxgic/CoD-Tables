@@ -1,0 +1,13 @@
+film,gamefilms,1,MENU_FILESHARE_FILM
+clip,gamefilms,2,MENU_EDITED_FILM
+screenshot,screenshots,3,MENU_FILESHARE_SCREENSHOT
+customgame,customgames,5,MENU_FILESHARE_CUSTOMGAME
+emblem,emblems,6,MENU_FILESHARE_EMBLEM
+render,renders,32768,MENU_FILESHARE_RENDER
+customclass,customclasses,7,MENU_FILESHARE_CUSTOMCLASS
+emblemimage,emblemimages,8,MENU_FILESHARE_EMBLEMIMAGE
+zmfilm,gamefilms,51,MENU_FILESHARE_FILM
+zmclip,gamefilms,52,MENU_EDITED_FILM
+zmscreenshot,screenshots,53,MENU_FILESHARE_SCREENSHOT
+zmcustomgame,customgames,54,MENU_FILESHARE_CUSTOMGAME
+zmrender,renders,32769,MENU_FILESHARE_RENDER

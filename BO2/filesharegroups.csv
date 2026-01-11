@@ -1,0 +1,7 @@
+gamefilms,200,8,40,Y,MENU_FILESHARE_GAME_FILMSCLIPS,menu_mp_lobby_icon_clip,0.5,0.15,0.13
+screenshots,300,10,50,Y,MENU_FILESHARE_SCREENSHOTS,menu_mp_lobby_icon_screenshot,0.29,0.25,0.4
+customgames,400,5,50,Y,MENU_FILESHARE_CUSTOMGAMES,menu_mp_lobby_icon_customgamemode,0.35,0.35,0.13
+emblems,500,10,30,Y,MENU_FILESHARE_EMBLEMS,menu_mp_lobby_icon_emblem,0.13,0.55,0.8
+renders,100,3,3,Y,MENU_FILESHARE_RENDEREDVIDEOS,menu_mp_lobby_icon_highlight,0,0.27,0.17
+customclasses,600,0,0,N,MENU_CUSTOM_CLASS_SETS,menu_mp_lobby_icon_class_set,0.55,0.8,0.13
+emblemimages,700,6,6,N,,,,,
