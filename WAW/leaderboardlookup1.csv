@@ -1,0 +1,262 @@
+a1,b2,c3,d4,e5,f6,g7,g8,g9
+248,30cal_mp2,2,1,1,Deaths By,Hits By,,
+249,357magnum_mp2,2,1,1,Deaths By,Hits By,,
+250,bar_mp2,2,1,1,Deaths By,Hits By,,
+251,bazooka_mp2,2,1,1,Deaths By,Hits By,,
+252,colt_mp2,2,1,1,Deaths By,Hits By,,
+253,doublebarreledshotgun_mp2,2,1,1,Deaths By,Hits By,,
+254,dp28_mp2,2,1,1,Deaths By,Hits By,,
+255,fg42_mp2,2,1,1,Deaths By,Hits By,,
+256,frag_grenade_mp2,2,1,1,Deaths By,Hits By,,
+257,gewehr43_mp2,2,1,1,Deaths By,Hits By,,
+258,kar98k_mp2,2,1,1,Deaths By,Hits By,,
+259,m1carbine_mp2,2,1,1,Deaths By,Hits By,,
+260,m1garand_mp2,2,1,1,Deaths By,Hits By,,
+261,m2_flamethrower_mp2,2,1,1,Deaths By,Hits By,,
+262,m8_white_smoke_mp2,2,1,1,Deaths By,Hits By,,
+263,mg42_mp2,2,1,1,Deaths By,Hits By,,
+264,mine_bouncing_betty_mp2,2,1,1,Deaths By,Hits By,,
+265,molotov_mp2,2,1,1,Deaths By,Hits By,,
+266,mosinrifle_mp2,2,1,1,Deaths By,Hits By,,
+267,mp40_mp2,2,1,1,Deaths By,Hits By,,
+268,nambu_mp2,2,1,1,Deaths By,Hits By,,
+269,ppsh_mp2,2,1,1,Deaths By,Hits By,,
+270,ptrs41_mp2,2,1,1,Deaths By,Hits By,,
+271,satchel_charge_mp2,2,1,1,Deaths By,Hits By,,
+272,shotgun_mp2,2,1,1,Deaths By,Hits By,,
+273,signal_flare_mp2,2,1,1,Deaths By,Hits By,,
+274,stg44_mp2,2,1,1,Deaths By,Hits By,,
+275,springfield_mp2,2,1,1,Deaths By,Hits By,,
+276,sticky_grenade_mp2,2,1,1,Deaths By,Hits By,,
+277,svt40_mp2,2,1,1,Deaths By,Hits By,,
+278,tabun_gas_mp2,2,1,1,Deaths By,Hits By,,
+279,thompson_mp2,2,1,1,Deaths By,Hits By,,
+280,tokarev_mp2,2,1,1,Deaths By,Hits By,,
+281,type100smg_mp2,2,1,1,Deaths By,Hits By,,
+282,type99lmg_mp2,2,1,1,Deaths By,Hits By,,
+283,type99rifle_mp2,2,1,1,Deaths By,Hits By,,
+284,walther_mp2,2,1,1,Deaths By,Hits By,,
+285,panzer4_gunner_mp2,2,1,1,Deaths By,Hits By,,
+286,panzer4_turret_mp2,2,1,1,Deaths By,Hits By,,
+287,t34_gunner_mp2,2,1,1,Deaths By,Hits By,,
+288,t34_turret_mp2,2,1,1,Deaths By,Hits By,,
+289,dog_bite_mp2,2,1,1,Deaths By,Hits By,,
+290,artillery_mp2,2,1,1,Deaths By,Hits By,,
+291,mp_airfield2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+292,mp_asylum2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+293,mp_castle2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+294,mp_courtyard2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+295,mp_dome2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+296,mp_downfall2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+297,mp_hangar2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+298,mp_makin2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+299,mp_nachtfeuer2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+300,mp_outskirts2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+301,mp_seelow2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+302,mp_shrine2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+303,mp_suburban2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+304,mp_airfield3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+305,mp_asylum3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+306,mp_castle3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+307,mp_courtyard3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+308,mp_dome3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+309,mp_downfall3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+310,mp_hangar3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+311,mp_makin3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+312,mp_nachtfeuer3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+313,mp_outskirts3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+314,mp_seelow3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+315,mp_shrine3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+316,mp_suburban3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+317,specialty_detectexplosive,1,1,0,,,,
+318,specialty_extraammo,1,1,0,,,,
+319,specialty_gpsjammer,1,1,0,,,,
+320,specialty_explosivedamage,1,1,0,,,,
+321,specialty_flakjacket,1,1,0,,,,
+322,specialty_bulletdamage,1,1,0,,,,
+323,specialty_rof,1,1,0,,,,
+324,specialty_fastreload,1,1,0,,,,
+325,specialty_twoprimaries,1,1,0,,,,
+326,specialty_armorvest,1,1,0,,,,
+327,specialty_pin_back,1,1,0,,,,
+328,specialty_shades,1,1,0,,,,
+329,specialty_gas_mask,1,1,0,,,,
+330,specialty_holdbreath,1,1,0,,,,
+331,specialty_quieter,1,1,0,,,,
+332,specialty_longersprint,1,1,0,,,,
+333,specialty_pistoldeath,1,1,0,,,,
+334,specialty_grenadepulldeath,1,1,0,,,,
+335,specialty_bulletpenetration,1,1,0,,,,
+336,specialty_bulletaccuracy,1,1,0,,,,
+337,specialty_fireproof,1,1,0,,,,
+338,specialty_reconnaissance,1,1,0,,,,
+339,specialty_greased_barrings,1,1,0,,,,
+340,specialty_water_cooled,1,1,0,,,,
+341,specialty_ordinance,1,1,0,,,,
+342,specialty_leadfoot,1,1,0,,,,
+343,specialty_boost,1,1,0,,,,
+344,specialty_fraggrenade,1,1,0,,,,
+345,specialty_specialgrenade,1,1,0,,,,
+346,specialty_weapon_satchel_charge,1,1,0,,,,
+347,specialty_weapon_bouncing_betty,1,1,0,,,,
+348,specialty_weapon_bazooka,1,1,0,,,,
+349,specialty_weapon_flamethrower,1,1,0,,,,
+350,sabotage,2,1,0,Targets Destroyed,Targets Defused,,
+351,CTF_Flags,3,1,0,Captured,Returned,Picked Up,
+352,search_and_destroy,2,1,0,Targets Destroyed,Targets Defused,,
+353,pers_ch_flare,1,1,0,,,,
+354,pers_ch_tabun,1,1,0,,,,
+355,pers_ch_pyro,1,1,0,,,,
+356,pers_ch_supressor,1,1,0,,,,
+357,pers_ch_invisible,1,1,0,,,,
+358,pers_ch_bayonet,1,1,0,,,,
+359,pers_ch_launchspecialist,1,1,0,,,,
+360,pers_ch_downnotout,1,1,0,,,,
+361,pers_ch_medic,1,1,0,,,,
+362,pers_ch_martyrdom,1,1,0,,,,
+363,pers_ch_gasmask,1,1,0,,,,
+364,pers_ch_shades,1,1,0,,,,
+365,pers_ch_multifrag,1,1,0,,,,
+366,pers_ch_multimine,1,1,0,,,,
+367,pers_ch_backstabber,1,1,0,,,,
+368,pers_ch_slowbutsure,1,1,0,,,,
+369,pers_ch_rival,1,1,0,,,,
+370,pers_ch_cruelty,1,1,0,,,,
+371,pers_ch_specialdelivery,1,1,0,,,,
+372,pers_ch_blindfire,1,1,0,,,,
+373,pers_ch_returntosender,1,1,0,,,,
+374,pers_ch_ohnoyoudont,1,1,0,,,,
+375,pers_ch_miserylovescompany,1,1,0,,,,
+376,pers_ch_thinkfast,1,1,0,,,,
+377,pers_ch_thinkfastspecial,1,1,0,,,,
+378,pers_ch_carbomb,1,1,0,,,,
+379,pers_ch_barrelbomb,1,1,0,,,,
+380,pers_ch_hotpotato,1,1,0,,,,
+381,pers_ch_gib,1,1,0,,,,
+382,pers_ch_deathdodger,1,1,0,,,,
+383,pers_ch_thebrink,1,1,0,,,,
+384,pers_ch_collateraldamage,1,1,0,,,,
+385,pers_ch_theedge,1,1,0,,,,
+386,pers_ch_flawless,1,1,0,,,,
+387,pers_ch_tangodown,1,1,0,,,,
+388,pers_ch_hardlanding,1,1,0,,,,
+389,pers_ch_extremecruelty,1,1,0,,,,
+390,pers_ch_fastswap,1,1,0,,,,
+391,pers_ch_starplayer,1,1,0,,,,
+392,pers_ch_howthe,1,1,0,,,,
+393,pers_ch_dominos,1,1,0,,,,
+394,pers_ch_nosecrets,1,1,0,,,,
+395,pers_ch_rabid,1,1,0,,,,
+396,pers_ch_heavyartillary,1,1,0,,,,
+397,pers_ch_fearless,1,1,0,,,,
+398,pers_ch_countermvp,1,1,0,,,,
+399,pers_ch_invincible,1,1,0,,,,
+400,pers_ch_survivalist,1,1,0,,,,
+401,pers_ch_desperado,1,1,0,,,,
+402,pers_ch_victor_ffa,1,1,0,,,,
+403,pers_ch_teamplayer,1,1,0,,,,
+404,pers_ch_victor_sd,1,1,0,,,,
+405,pers_ch_victor_ctf,1,1,0,,,,
+406,pers_ch_teamplayer_hc,1,1,0,,,,
+407,pers_ch_victor_sab,1,1,0,,,,
+408,pers_ch_victor_war,1,1,0,,,,
+409,pers_ch_victor_dom,1,1,0,,,,
+410,pers_ch_victor_hq,1,1,0,,,,
+411,pers_ch_crouchshot,1,1,0,,,,
+412,pers_ch_proneshot,1,1,0,,,,
+413,pers_ch_grenadekill,1,1,0,,,,
+414,pers_ch_assists,1,1,0,,,,
+415,pers_ch_xrayvision,1,1,0,,,,
+416,pers_ch_vandalism,1,1,0,,,,
+417,pers_ch_exposed,1,1,0,,,,
+418,pers_ch_backdraft,1,1,0,,,,
+419,pers_ch_knifevet,1,1,0,,,,
+420,pers_ch_bartender,1,1,0,,,,
+421,pers_ch_stickykill,1,1,0,,,,
+422,pers_ch_mvp_thc,1,1,0,,,,
+423,pers_ch_mvp_tdm,1,1,0,,,,
+424,pers_ch_bombdown,1,1,0,,,,
+425,pers_ch_bombdefender,1,1,0,,,,
+426,pers_ch_bombplanter,1,1,0,,,,
+427,pers_ch_hero,1,1,0,,,,
+428,pers_ch_lastmanstanding,1,1,0,,,,
+429,pers_ch_warhero,1,1,0,,,,
+430,pers_ch_expert_gunner,1,1,0,,,,
+431,pers_ch_turrethunter,1,1,0,,,,
+432,pers_ch_behemouth,1,1,0,,,,
+433,pers_ch_tankvtank,1,1,0,,,,
+434,pers_ch_antitankrockets,1,1,0,,,,
+435,pers_ch_antitankdemolitions,1,1,0,,,,
+436,pers_ch_tanksticker,1,1,0,,,,
+437,pers_ch_immobilizer,1,1,0,,,,
+438,pers_ch_trapper,1,1,0,,,,
+439,pers_ch_tankbomb,1,1,0,,,,
+440,pers_ch_roadtrip,1,1,0,,,,
+441,pers_ch_youtalkintome,1,1,0,,,,
+442,pers_ch_gotem,1,1,0,,,,
+443,pers_ch_marksman_pistol,1,1,0,,,,
+444,pers_ch_expert_pistol,1,1,0,,,,
+445,pers_ch_expert_assault,1,1,0,,,,
+446,pers_ch_expert_smg,1,1,0,,,,
+447,pers_ch_expert_lmg,1,1,0,,,,
+448,pers_ch_expert_hmg,1,1,0,,,,
+449,pers_ch_expert_boltaction,1,1,0,,,,
+450,pers_ch_masterchef,1,1,0,,,,
+451,pers_ch_uav,1,1,0,,,,
+452,pers_ch_artillary,1,1,0,,,,
+453,pers_ch_dogs,1,1,0,,,,
+454,pers_ch_selfdefense,1,1,0,,,,
+455,pers_ch_marathon,1,1,0,,,,
+456,pers_ch_goodbye,1,1,0,,,,
+457,30cal_mp,4,1,0,Shots,Hits,Kills,Headshots
+458,357magnum_mp,4,1,0,Shots,Hits,Kills,Headshots
+459,bar_mp,4,1,0,Shots,Hits,Kills,Headshots
+460,bazooka_mp,4,1,0,Shots,Hits,Kills,Headshots
+461,colt_mp,4,1,0,Shots,Hits,Kills,Headshots
+462,doublebarreledshotgun_mp,4,1,0,Shots,Hits,Kills,Headshots
+463,dp28_mp,4,1,0,Shots,Hits,Kills,Headshots
+464,fg42_mp,4,1,0,Shots,Hits,Kills,Headshots
+465,frag_grenade_mp,4,1,0,Shots,Hits,Kills,Headshots
+466,gewehr43_mp,4,1,0,Shots,Hits,Kills,Headshots
+467,kar98k_mp,4,1,0,Shots,Hits,Kills,Headshots
+468,m1carbine_mp,4,1,0,Shots,Hits,Kills,Headshots
+469,m1garand_mp,4,1,0,Shots,Hits,Kills,Headshots
+470,m2_flamethrower_mp,4,1,0,Shots,Hits,Kills,Headshots
+471,m8_white_smoke_mp,4,1,0,Shots,Hits,Kills,Headshots
+472,mg42_mp,4,1,0,Shots,Hits,Kills,Headshots
+473,mine_bouncing_betty_mp,4,1,0,Shots,Hits,Kills,Headshots
+474,molotov_mp,4,1,0,Shots,Hits,Kills,Headshots
+475,mosinrifle_mp,4,1,0,Shots,Hits,Kills,Headshots
+476,mp40_mp,4,1,0,Shots,Hits,Kills,Headshots
+477,nambu_mp,4,1,0,Shots,Hits,Kills,Headshots
+478,ppsh_mp,4,1,0,Shots,Hits,Kills,Headshots
+479,ptrs41_mp,4,1,0,Shots,Hits,Kills,Headshots
+480,satchel_charge_mp,4,1,0,Shots,Hits,Kills,Headshots
+481,shotgun_mp,4,1,0,Shots,Hits,Kills,Headshots
+482,signal_flare_mp,4,1,0,Shots,Hits,Kills,Headshots
+483,stg44_mp,4,1,0,Shots,Hits,Kills,Headshots
+484,springfield_mp,4,1,0,Shots,Hits,Kills,Headshots
+485,sticky_grenade_mp,4,1,0,Shots,Hits,Kills,Headshots
+486,svt40_mp,4,1,0,Shots,Hits,Kills,Headshots
+487,tabun_gas_mp,4,1,0,Shots,Hits,Kills,Headshots
+488,thompson_mp,4,1,0,Shots,Hits,Kills,Headshots
+489,tokarev_mp,4,1,0,Shots,Hits,Kills,Headshots
+490,type100smg_mp,4,1,0,Shots,Hits,Kills,Headshots
+491,type99lmg_mp,4,1,0,Shots,Hits,Kills,Headshots
+492,type99rifle_mp,4,1,0,Shots,Hits,Kills,Headshots
+493,walther_mp,4,1,0,Shots,Hits,Kills,Headshots
+494,panzer4_gunner_mp,4,1,0,Shots,Hits,Kills,Headshots
+495,panzer4_turret_mp,4,1,0,Shots,Hits,Kills,Headshots
+496,t34_gunner_mp,4,1,0,Shots,Hits,Kills,Headshots
+497,t34_turret_mp,4,1,0,Shots,Hits,Kills,Headshots
+498,dog_bite_mp,4,1,0,Shots,Hits,Kills,Headshots
+499,artillery_mp,4,1,0,Shots,Hits,Kills,Headshots
+500,mp_bgate,4,1,0,Wins,Losses,Ties,XP
+501,mp_bgate2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+502,mp_bgate3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+503,mp_drum,4,1,0,Wins,Losses,Ties,XP
+504,mp_drum2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+505,mp_drum3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
+506,mp_vodka,4,1,0,Wins,Losses,Ties,XP
+507,mp_vodka2,4,1,0,Xp Earned,Total Kills On,Total Deaths On,Longest Kill Streak On
+508,mp_vodka3,3,1,0,Plays On,Time In Squad,Time as Lone Wolf,
